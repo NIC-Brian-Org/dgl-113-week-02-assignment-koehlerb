@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "apples",
+      "setup": "yarn install",
+      "run": "yarn run test-apples",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "oranges",
+      "setup": "",
+      "run": "yarn run test-oranges",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "broccoli",
+      "setup": "",
+      "run": "yarn run test-broccoli",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "combo",
+      "setup": "",
+      "run": "yarn run test-combo",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "empty",
+      "setup": "",
+      "run": "yarn run test-empty",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
